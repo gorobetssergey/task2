@@ -1,3 +1,3 @@
 <?php
 
-echo date("Y-m-d H:m:s");
+echo 'сегоднешняя дата:-'.date("Y-m-d H:m:s");
